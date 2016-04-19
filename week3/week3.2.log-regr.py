@@ -1,6 +1,4 @@
 import numpy as np
-import pandas as pd
-from sklearn import svm
 from sklearn.metrics import roc_auc_score
 from scipy.spatial import distance
 import math
